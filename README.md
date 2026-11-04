@@ -11,7 +11,7 @@
 
 I'm interested in web development and software engineering.
 
-I work with multiple programming languages and web technologies, and I'm focused on improving my skills through practical projects.
+I work with different programming languages, frameworks, and tools, and I'm continuously improving my skills through practical projects.
 
 ### Technologies & Skills
 
@@ -31,6 +31,20 @@ I work with multiple programming languages and web technologies, and I'm focused
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,cs,cpp" />
+</p>
+
+**Database**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+- SQL Server
+
+**CMS & Website Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress" />
 </p>
 
 **Web Design**
