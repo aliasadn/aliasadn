@@ -1,8 +1,10 @@
 
-<h1 align="center">Ali Asadzade</h1>
+<h1 align="center">Ali Asadn</h1>
+
+<h3 align="center">Web Developer | Software Development</h3>
 
 <p align="center">
-  Web Developer | Software Development
+  Interested in building web applications and exploring modern technologies.
 </p>
 
 ---
@@ -11,7 +13,10 @@
 
 I'm interested in web development and software engineering.
 
-I work with different programming languages, frameworks, and tools, and I'm continuously improving my skills through practical projects.
+I work with different programming languages, frameworks, and tools.
+I'm continuously improving my skills through practical projects and learning new technologies.
+
+---
 
 ### Technologies & Skills
 
@@ -47,6 +52,12 @@ I work with different programming languages, frameworks, and tools, and I'm cont
   <img src="https://skillicons.dev/icons?i=wordpress" />
 </p>
 
+**Operating Systems**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux" />
+</p>
+
 **Web Design**
 
 - Responsive Web Design
@@ -59,6 +70,18 @@ I work with different programming languages, frameworks, and tools, and I'm cont
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-### Contact
+---
 
-GitHub: [@aliasadn](https://github.com/aliasadn)
+### Connect With Me
+
+<p>
+  <a href="https://github.com/aliasadn">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Always learning. Always building.
+</p>
