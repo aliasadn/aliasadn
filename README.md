@@ -41,10 +41,8 @@ I'm continuously improving my skills through practical projects and learning new
 **Database**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=microsoftsqlserver" />
 </p>
-
-- SQL Server
 
 **CMS & Website Development**
 
