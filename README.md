@@ -1,5 +1,5 @@
 
-<h1 align="center">Ali Asadn</h1>
+<h1 align="center">Ali Asadzade</h1>
 
 <h3 align="center">Web Developer | Software Development</h3>
 
