@@ -70,11 +70,14 @@ I'm continuously improving my skills through practical projects and learning new
 
 ---
 
-### Connect With Me
+<h2 align="left">Connect With Me</h2>
 
-<p>
-  <a href="https://github.com/aliasadn">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<p align="left">
+  <a href="https://t.me/A54d24d3">
+    <img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
