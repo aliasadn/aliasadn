@@ -2,33 +2,49 @@
 <h1 align="center">Ali Asadzade</h1>
 
 <p align="center">
-  Web Developer
-</p>
-
-<p align="center">
-  JavaScript · React · Node.js · Python
+  Web Developer | Software Development
 </p>
 
 ---
 
 ### About Me
 
-I'm a developer interested in building web applications
-and exploring modern software technologies.
+I'm interested in web development and software engineering.
 
-Currently focused on improving my development skills
-through practical projects.
+I work with multiple programming languages and web technologies, and I'm focused on improving my skills through practical projects.
 
-### Technologies
+### Technologies & Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,html,css,python,git,github" />
+**Frontend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### GitHub
+**Backend Development**
 
-<p align="center">
-  <a href="https://github.com/aliasadn">
-    github.com/aliasadn
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python" />
 </p>
+
+**Programming Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cs,cpp" />
+</p>
+
+**Web Design**
+
+- Responsive Web Design
+- Flexbox
+- CSS Grid
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### Contact
+
+GitHub: [@aliasadn](https://github.com/aliasadn)
