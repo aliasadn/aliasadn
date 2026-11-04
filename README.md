@@ -39,7 +39,7 @@ I'm continuously improving my skills through practical projects and learning new
 </p>
 
 **Database**
-پ
+
 <p>
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
