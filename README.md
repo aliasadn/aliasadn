@@ -2,28 +2,33 @@
 <h1 align="center">Ali Asadn</h1>
 
 <p align="center">
-  Computer Engineering Student | Software Developer
+  Web Developer
+</p>
+
+<p align="center">
+  JavaScript · React · Node.js · Python
 </p>
 
 ---
 
-### About
+### About Me
 
-I'm a Computer Engineering student interested in software development and web technologies.
+I'm a developer interested in building web applications
+and exploring modern software technologies.
 
-Currently focused on improving my development skills through practical projects.
+Currently focused on improving my development skills
+through practical projects.
 
 ### Technologies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,python,html,css,git,github" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,html,css,python,git,github" />
 </p>
-
-### Projects
-
-Coming soon...
 
 ### GitHub
 
-[GitHub Profile](https://github.com/aliasadn)
-
+<p align="center">
+  <a href="https://github.com/aliasadn">
+    github.com/aliasadn
+  </a>
+</p>
